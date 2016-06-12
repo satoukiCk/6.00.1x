@@ -1,3 +1,3 @@
 # 6.00.1x
-code of the MIT Python course on edX 
+codes for the MIT Python course on edX 
 
